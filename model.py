@@ -3,6 +3,10 @@
 Created on Wed Feb 17 22:09:44 2021
 
 @author: angelou
+
+Modificated on Oct 27 16:00:00 2022
+@modifications: jose
+
 """
 import os
 import cv2

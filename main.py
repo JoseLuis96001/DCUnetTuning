@@ -3,6 +3,9 @@
 Created on Wed Feb 17 22:05:16 2021
 
 @author: angelou
+
+Modificated on Oct 27 16:00:00 2022
+@modifucations: jose
 """
 
 import os
